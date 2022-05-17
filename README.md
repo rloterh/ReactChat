@@ -1,2 +1,2 @@
-# ReactChat  (Work in Progress 🚧)
+# ReactChat  (Work In Progress! 🚧)
 Realtime chat application
